@@ -1,0 +1,4760 @@
+[
+    {
+        "arrival_date_year": 2015,
+        "arrival_date_month": "August",
+        "arrival_date_day_of_month": 1,
+        "cancellations": 50
+    },
+    {
+        "arrival_date_year": 2015,
+        "arrival_date_month": "August",
+        "arrival_date_day_of_month": 2,
+        "cancellations": 7
+    },
+    {
+        "arrival_date_year": 2015,
+        "arrival_date_month": "August",
+        "arrival_date_day_of_month": 3,
+        "cancellations": 110
+    },
+    {
+        "arrival_date_year": 2015,
+        "arrival_date_month": "August",
+        "arrival_date_day_of_month": 4,
+        "cancellations": 12
+    },
+    {
+        "arrival_date_year": 2015,
+        "arrival_date_month": "August",
+        "arrival_date_day_of_month": 5,
+        "cancellations": 64
+    },
+    {
+        "arrival_date_year": 2015,
+        "arrival_date_month": "August",
+        "arrival_date_day_of_month": 6,
+        "cancellations": 27
+    },
+    {
+        "arrival_date_year": 2015,
+        "arrival_date_month": "August",
+        "arrival_date_day_of_month": 7,
+        "cancellations": 56
+    },
+    {
+        "arrival_date_year": 2015,
+        "arrival_date_month": "August",
+        "arrival_date_day_of_month": 8,
+        "cancellations": 100
+    },
+    {
+        "arrival_date_year": 2015,
+        "arrival_date_month": "August",
+        "arrival_date_day_of_month": 9,
+        "cancellations": 14
+    },
+    {
+        "arrival_date_year": 2015,
+        "arrival_date_month": "August",
+        "arrival_date_day_of_month": 10,
+        "cancellations": 79
+    },
+    {
+        "arrival_date_year": 2015,
+        "arrival_date_month": "August",
+        "arrival_date_day_of_month": 11,
+        "cancellations": 28
+    },
+    {
+        "arrival_date_year": 2015,
+        "arrival_date_month": "August",
+        "arrival_date_day_of_month": 12,
+        "cancellations": 50
+    },
+    {
+        "arrival_date_year": 2015,
+        "arrival_date_month": "August",
+        "arrival_date_day_of_month": 13,
+        "cancellations": 54
+    },
+    {
+        "arrival_date_year": 2015,
+        "arrival_date_month": "August",
+        "arrival_date_day_of_month": 14,
+        "cancellations": 210
+    },
+    {
+        "arrival_date_year": 2015,
+        "arrival_date_month": "August",
+        "arrival_date_day_of_month": 15,
+        "cancellations": 89
+    },
+    {
+        "arrival_date_year": 2015,
+        "arrival_date_month": "August",
+        "arrival_date_day_of_month": 16,
+        "cancellations": 24
+    },
+    {
+        "arrival_date_year": 2015,
+        "arrival_date_month": "August",
+        "arrival_date_day_of_month": 17,
+        "cancellations": 80
+    },
+    {
+        "arrival_date_year": 2015,
+        "arrival_date_month": "August",
+        "arrival_date_day_of_month": 18,
+        "cancellations": 26
+    },
+    {
+        "arrival_date_year": 2015,
+        "arrival_date_month": "August",
+        "arrival_date_day_of_month": 19,
+        "cancellations": 8
+    },
+    {
+        "arrival_date_year": 2015,
+        "arrival_date_month": "August",
+        "arrival_date_day_of_month": 20,
+        "cancellations": 50
+    },
+    {
+        "arrival_date_year": 2015,
+        "arrival_date_month": "August",
+        "arrival_date_day_of_month": 21,
+        "cancellations": 13
+    },
+    {
+        "arrival_date_year": 2015,
+        "arrival_date_month": "August",
+        "arrival_date_day_of_month": 22,
+        "cancellations": 59
+    },
+    {
+        "arrival_date_year": 2015,
+        "arrival_date_month": "August",
+        "arrival_date_day_of_month": 23,
+        "cancellations": 17
+    },
+    {
+        "arrival_date_year": 2015,
+        "arrival_date_month": "August",
+        "arrival_date_day_of_month": 24,
+        "cancellations": 69
+    },
+    {
+        "arrival_date_year": 2015,
+        "arrival_date_month": "August",
+        "arrival_date_day_of_month": 25,
+        "cancellations": 59
+    },
+    {
+        "arrival_date_year": 2015,
+        "arrival_date_month": "August",
+        "arrival_date_day_of_month": 26,
+        "cancellations": 49
+    },
+    {
+        "arrival_date_year": 2015,
+        "arrival_date_month": "August",
+        "arrival_date_day_of_month": 27,
+        "cancellations": 61
+    },
+    {
+        "arrival_date_year": 2015,
+        "arrival_date_month": "August",
+        "arrival_date_day_of_month": 28,
+        "cancellations": 25
+    },
+    {
+        "arrival_date_year": 2015,
+        "arrival_date_month": "August",
+        "arrival_date_day_of_month": 29,
+        "cancellations": 20
+    },
+    {
+        "arrival_date_year": 2015,
+        "arrival_date_month": "August",
+        "arrival_date_day_of_month": 30,
+        "cancellations": 52
+    },
+    {
+        "arrival_date_year": 2015,
+        "arrival_date_month": "August",
+        "arrival_date_day_of_month": 31,
+        "cancellations": 36
+    },
+    {
+        "arrival_date_year": 2015,
+        "arrival_date_month": "December",
+        "arrival_date_day_of_month": 1,
+        "cancellations": 12
+    },
+    {
+        "arrival_date_year": 2015,
+        "arrival_date_month": "December",
+        "arrival_date_day_of_month": 2,
+        "cancellations": 6
+    },
+    {
+        "arrival_date_year": 2015,
+        "arrival_date_month": "December",
+        "arrival_date_day_of_month": 3,
+        "cancellations": 24
+    },
+    {
+        "arrival_date_year": 2015,
+        "arrival_date_month": "December",
+        "arrival_date_day_of_month": 4,
+        "cancellations": 47
+    },
+    {
+        "arrival_date_year": 2015,
+        "arrival_date_month": "December",
+        "arrival_date_day_of_month": 5,
+        "cancellations": 193
+    },
+    {
+        "arrival_date_year": 2015,
+        "arrival_date_month": "December",
+        "arrival_date_day_of_month": 6,
+        "cancellations": 19
+    },
+    {
+        "arrival_date_year": 2015,
+        "arrival_date_month": "December",
+        "arrival_date_day_of_month": 7,
+        "cancellations": 4
+    },
+    {
+        "arrival_date_year": 2015,
+        "arrival_date_month": "December",
+        "arrival_date_day_of_month": 8,
+        "cancellations": 167
+    },
+    {
+        "arrival_date_year": 2015,
+        "arrival_date_month": "December",
+        "arrival_date_day_of_month": 9,
+        "cancellations": 84
+    },
+    {
+        "arrival_date_year": 2015,
+        "arrival_date_month": "December",
+        "arrival_date_day_of_month": 10,
+        "cancellations": 3
+    },
+    {
+        "arrival_date_year": 2015,
+        "arrival_date_month": "December",
+        "arrival_date_day_of_month": 11,
+        "cancellations": 7
+    },
+    {
+        "arrival_date_year": 2015,
+        "arrival_date_month": "December",
+        "arrival_date_day_of_month": 12,
+        "cancellations": 3
+    },
+    {
+        "arrival_date_year": 2015,
+        "arrival_date_month": "December",
+        "arrival_date_day_of_month": 13,
+        "cancellations": 4
+    },
+    {
+        "arrival_date_year": 2015,
+        "arrival_date_month": "December",
+        "arrival_date_day_of_month": 14,
+        "cancellations": 3
+    },
+    {
+        "arrival_date_year": 2015,
+        "arrival_date_month": "December",
+        "arrival_date_day_of_month": 15,
+        "cancellations": 3
+    },
+    {
+        "arrival_date_year": 2015,
+        "arrival_date_month": "December",
+        "arrival_date_day_of_month": 16,
+        "cancellations": 2
+    },
+    {
+        "arrival_date_year": 2015,
+        "arrival_date_month": "December",
+        "arrival_date_day_of_month": 17,
+        "cancellations": 6
+    },
+    {
+        "arrival_date_year": 2015,
+        "arrival_date_month": "December",
+        "arrival_date_day_of_month": 18,
+        "cancellations": 5
+    },
+    {
+        "arrival_date_year": 2015,
+        "arrival_date_month": "December",
+        "arrival_date_day_of_month": 19,
+        "cancellations": 35
+    },
+    {
+        "arrival_date_year": 2015,
+        "arrival_date_month": "December",
+        "arrival_date_day_of_month": 20,
+        "cancellations": 10
+    },
+    {
+        "arrival_date_year": 2015,
+        "arrival_date_month": "December",
+        "arrival_date_day_of_month": 21,
+        "cancellations": 9
+    },
+    {
+        "arrival_date_year": 2015,
+        "arrival_date_month": "December",
+        "arrival_date_day_of_month": 22,
+        "cancellations": 17
+    },
+    {
+        "arrival_date_year": 2015,
+        "arrival_date_month": "December",
+        "arrival_date_day_of_month": 23,
+        "cancellations": 9
+    },
+    {
+        "arrival_date_year": 2015,
+        "arrival_date_month": "December",
+        "arrival_date_day_of_month": 24,
+        "cancellations": 21
+    },
+    {
+        "arrival_date_year": 2015,
+        "arrival_date_month": "December",
+        "arrival_date_day_of_month": 25,
+        "cancellations": 28
+    },
+    {
+        "arrival_date_year": 2015,
+        "arrival_date_month": "December",
+        "arrival_date_day_of_month": 26,
+        "cancellations": 28
+    },
+    {
+        "arrival_date_year": 2015,
+        "arrival_date_month": "December",
+        "arrival_date_day_of_month": 27,
+        "cancellations": 40
+    },
+    {
+        "arrival_date_year": 2015,
+        "arrival_date_month": "December",
+        "arrival_date_day_of_month": 28,
+        "cancellations": 26
+    },
+    {
+        "arrival_date_year": 2015,
+        "arrival_date_month": "December",
+        "arrival_date_day_of_month": 29,
+        "cancellations": 54
+    },
+    {
+        "arrival_date_year": 2015,
+        "arrival_date_month": "December",
+        "arrival_date_day_of_month": 30,
+        "cancellations": 67
+    },
+    {
+        "arrival_date_year": 2015,
+        "arrival_date_month": "December",
+        "arrival_date_day_of_month": 31,
+        "cancellations": 37
+    },
+    {
+        "arrival_date_year": 2015,
+        "arrival_date_month": "July",
+        "arrival_date_day_of_month": 1,
+        "cancellations": 19
+    },
+    {
+        "arrival_date_year": 2015,
+        "arrival_date_month": "July",
+        "arrival_date_day_of_month": 2,
+        "cancellations": 57
+    },
+    {
+        "arrival_date_year": 2015,
+        "arrival_date_month": "July",
+        "arrival_date_day_of_month": 3,
+        "cancellations": 19
+    },
+    {
+        "arrival_date_year": 2015,
+        "arrival_date_month": "July",
+        "arrival_date_day_of_month": 4,
+        "cancellations": 43
+    },
+    {
+        "arrival_date_year": 2015,
+        "arrival_date_month": "July",
+        "arrival_date_day_of_month": 5,
+        "cancellations": 16
+    },
+    {
+        "arrival_date_year": 2015,
+        "arrival_date_month": "July",
+        "arrival_date_day_of_month": 6,
+        "cancellations": 34
+    },
+    {
+        "arrival_date_year": 2015,
+        "arrival_date_month": "July",
+        "arrival_date_day_of_month": 7,
+        "cancellations": 25
+    },
+    {
+        "arrival_date_year": 2015,
+        "arrival_date_month": "July",
+        "arrival_date_day_of_month": 8,
+        "cancellations": 24
+    },
+    {
+        "arrival_date_year": 2015,
+        "arrival_date_month": "July",
+        "arrival_date_day_of_month": 9,
+        "cancellations": 51
+    },
+    {
+        "arrival_date_year": 2015,
+        "arrival_date_month": "July",
+        "arrival_date_day_of_month": 10,
+        "cancellations": 9
+    },
+    {
+        "arrival_date_year": 2015,
+        "arrival_date_month": "July",
+        "arrival_date_day_of_month": 11,
+        "cancellations": 42
+    },
+    {
+        "arrival_date_year": 2015,
+        "arrival_date_month": "July",
+        "arrival_date_day_of_month": 12,
+        "cancellations": 26
+    },
+    {
+        "arrival_date_year": 2015,
+        "arrival_date_month": "July",
+        "arrival_date_day_of_month": 13,
+        "cancellations": 45
+    },
+    {
+        "arrival_date_year": 2015,
+        "arrival_date_month": "July",
+        "arrival_date_day_of_month": 14,
+        "cancellations": 11
+    },
+    {
+        "arrival_date_year": 2015,
+        "arrival_date_month": "July",
+        "arrival_date_day_of_month": 15,
+        "cancellations": 48
+    },
+    {
+        "arrival_date_year": 2015,
+        "arrival_date_month": "July",
+        "arrival_date_day_of_month": 16,
+        "cancellations": 62
+    },
+    {
+        "arrival_date_year": 2015,
+        "arrival_date_month": "July",
+        "arrival_date_day_of_month": 17,
+        "cancellations": 45
+    },
+    {
+        "arrival_date_year": 2015,
+        "arrival_date_month": "July",
+        "arrival_date_day_of_month": 18,
+        "cancellations": 78
+    },
+    {
+        "arrival_date_year": 2015,
+        "arrival_date_month": "July",
+        "arrival_date_day_of_month": 19,
+        "cancellations": 18
+    },
+    {
+        "arrival_date_year": 2015,
+        "arrival_date_month": "July",
+        "arrival_date_day_of_month": 20,
+        "cancellations": 72
+    },
+    {
+        "arrival_date_year": 2015,
+        "arrival_date_month": "July",
+        "arrival_date_day_of_month": 21,
+        "cancellations": 44
+    },
+    {
+        "arrival_date_year": 2015,
+        "arrival_date_month": "July",
+        "arrival_date_day_of_month": 22,
+        "cancellations": 84
+    },
+    {
+        "arrival_date_year": 2015,
+        "arrival_date_month": "July",
+        "arrival_date_day_of_month": 23,
+        "cancellations": 59
+    },
+    {
+        "arrival_date_year": 2015,
+        "arrival_date_month": "July",
+        "arrival_date_day_of_month": 24,
+        "cancellations": 15
+    },
+    {
+        "arrival_date_year": 2015,
+        "arrival_date_month": "July",
+        "arrival_date_day_of_month": 25,
+        "cancellations": 103
+    },
+    {
+        "arrival_date_year": 2015,
+        "arrival_date_month": "July",
+        "arrival_date_day_of_month": 26,
+        "cancellations": 15
+    },
+    {
+        "arrival_date_year": 2015,
+        "arrival_date_month": "July",
+        "arrival_date_day_of_month": 27,
+        "cancellations": 97
+    },
+    {
+        "arrival_date_year": 2015,
+        "arrival_date_month": "July",
+        "arrival_date_day_of_month": 28,
+        "cancellations": 6
+    },
+    {
+        "arrival_date_year": 2015,
+        "arrival_date_month": "July",
+        "arrival_date_day_of_month": 29,
+        "cancellations": 16
+    },
+    {
+        "arrival_date_year": 2015,
+        "arrival_date_month": "July",
+        "arrival_date_day_of_month": 30,
+        "cancellations": 58
+    },
+    {
+        "arrival_date_year": 2015,
+        "arrival_date_month": "July",
+        "arrival_date_day_of_month": 31,
+        "cancellations": 18
+    },
+    {
+        "arrival_date_year": 2015,
+        "arrival_date_month": "November",
+        "arrival_date_day_of_month": 1,
+        "cancellations": 8
+    },
+    {
+        "arrival_date_year": 2015,
+        "arrival_date_month": "November",
+        "arrival_date_day_of_month": 2,
+        "cancellations": 22
+    },
+    {
+        "arrival_date_year": 2015,
+        "arrival_date_month": "November",
+        "arrival_date_day_of_month": 3,
+        "cancellations": 5
+    },
+    {
+        "arrival_date_year": 2015,
+        "arrival_date_month": "November",
+        "arrival_date_day_of_month": 4,
+        "cancellations": 24
+    },
+    {
+        "arrival_date_year": 2015,
+        "arrival_date_month": "November",
+        "arrival_date_day_of_month": 5,
+        "cancellations": 5
+    },
+    {
+        "arrival_date_year": 2015,
+        "arrival_date_month": "November",
+        "arrival_date_day_of_month": 6,
+        "cancellations": 17
+    },
+    {
+        "arrival_date_year": 2015,
+        "arrival_date_month": "November",
+        "arrival_date_day_of_month": 7,
+        "cancellations": 31
+    },
+    {
+        "arrival_date_year": 2015,
+        "arrival_date_month": "November",
+        "arrival_date_day_of_month": 8,
+        "cancellations": 9
+    },
+    {
+        "arrival_date_year": 2015,
+        "arrival_date_month": "November",
+        "arrival_date_day_of_month": 9,
+        "cancellations": 37
+    },
+    {
+        "arrival_date_year": 2015,
+        "arrival_date_month": "November",
+        "arrival_date_day_of_month": 10,
+        "cancellations": 11
+    },
+    {
+        "arrival_date_year": 2015,
+        "arrival_date_month": "November",
+        "arrival_date_day_of_month": 11,
+        "cancellations": 21
+    },
+    {
+        "arrival_date_year": 2015,
+        "arrival_date_month": "November",
+        "arrival_date_day_of_month": 12,
+        "cancellations": 20
+    },
+    {
+        "arrival_date_year": 2015,
+        "arrival_date_month": "November",
+        "arrival_date_day_of_month": 13,
+        "cancellations": 31
+    },
+    {
+        "arrival_date_year": 2015,
+        "arrival_date_month": "November",
+        "arrival_date_day_of_month": 14,
+        "cancellations": 6
+    },
+    {
+        "arrival_date_year": 2015,
+        "arrival_date_month": "November",
+        "arrival_date_day_of_month": 15,
+        "cancellations": 4
+    },
+    {
+        "arrival_date_year": 2015,
+        "arrival_date_month": "November",
+        "arrival_date_day_of_month": 16,
+        "cancellations": 11
+    },
+    {
+        "arrival_date_year": 2015,
+        "arrival_date_month": "November",
+        "arrival_date_day_of_month": 17,
+        "cancellations": 7
+    },
+    {
+        "arrival_date_year": 2015,
+        "arrival_date_month": "November",
+        "arrival_date_day_of_month": 18,
+        "cancellations": 12
+    },
+    {
+        "arrival_date_year": 2015,
+        "arrival_date_month": "November",
+        "arrival_date_day_of_month": 19,
+        "cancellations": 11
+    },
+    {
+        "arrival_date_year": 2015,
+        "arrival_date_month": "November",
+        "arrival_date_day_of_month": 20,
+        "cancellations": 54
+    },
+    {
+        "arrival_date_year": 2015,
+        "arrival_date_month": "November",
+        "arrival_date_day_of_month": 21,
+        "cancellations": 5
+    },
+    {
+        "arrival_date_year": 2015,
+        "arrival_date_month": "November",
+        "arrival_date_day_of_month": 22,
+        "cancellations": 2
+    },
+    {
+        "arrival_date_year": 2015,
+        "arrival_date_month": "November",
+        "arrival_date_day_of_month": 23,
+        "cancellations": 71
+    },
+    {
+        "arrival_date_year": 2015,
+        "arrival_date_month": "November",
+        "arrival_date_day_of_month": 24,
+        "cancellations": 4
+    },
+    {
+        "arrival_date_year": 2015,
+        "arrival_date_month": "November",
+        "arrival_date_day_of_month": 25,
+        "cancellations": 5
+    },
+    {
+        "arrival_date_year": 2015,
+        "arrival_date_month": "November",
+        "arrival_date_day_of_month": 26,
+        "cancellations": 7
+    },
+    {
+        "arrival_date_year": 2015,
+        "arrival_date_month": "November",
+        "arrival_date_day_of_month": 27,
+        "cancellations": 18
+    },
+    {
+        "arrival_date_year": 2015,
+        "arrival_date_month": "November",
+        "arrival_date_day_of_month": 28,
+        "cancellations": 14
+    },
+    {
+        "arrival_date_year": 2015,
+        "arrival_date_month": "November",
+        "arrival_date_day_of_month": 29,
+        "cancellations": 5
+    },
+    {
+        "arrival_date_year": 2015,
+        "arrival_date_month": "November",
+        "arrival_date_day_of_month": 30,
+        "cancellations": 9
+    },
+    {
+        "arrival_date_year": 2015,
+        "arrival_date_month": "October",
+        "arrival_date_day_of_month": 1,
+        "cancellations": 34
+    },
+    {
+        "arrival_date_year": 2015,
+        "arrival_date_month": "October",
+        "arrival_date_day_of_month": 2,
+        "cancellations": 21
+    },
+    {
+        "arrival_date_year": 2015,
+        "arrival_date_month": "October",
+        "arrival_date_day_of_month": 3,
+        "cancellations": 151
+    },
+    {
+        "arrival_date_year": 2015,
+        "arrival_date_month": "October",
+        "arrival_date_day_of_month": 4,
+        "cancellations": 70
+    },
+    {
+        "arrival_date_year": 2015,
+        "arrival_date_month": "October",
+        "arrival_date_day_of_month": 5,
+        "cancellations": 115
+    },
+    {
+        "arrival_date_year": 2015,
+        "arrival_date_month": "October",
+        "arrival_date_day_of_month": 6,
+        "cancellations": 69
+    },
+    {
+        "arrival_date_year": 2015,
+        "arrival_date_month": "October",
+        "arrival_date_day_of_month": 7,
+        "cancellations": 58
+    },
+    {
+        "arrival_date_year": 2015,
+        "arrival_date_month": "October",
+        "arrival_date_day_of_month": 8,
+        "cancellations": 80
+    },
+    {
+        "arrival_date_year": 2015,
+        "arrival_date_month": "October",
+        "arrival_date_day_of_month": 9,
+        "cancellations": 78
+    },
+    {
+        "arrival_date_year": 2015,
+        "arrival_date_month": "October",
+        "arrival_date_day_of_month": 10,
+        "cancellations": 119
+    },
+    {
+        "arrival_date_year": 2015,
+        "arrival_date_month": "October",
+        "arrival_date_day_of_month": 11,
+        "cancellations": 34
+    },
+    {
+        "arrival_date_year": 2015,
+        "arrival_date_month": "October",
+        "arrival_date_day_of_month": 12,
+        "cancellations": 47
+    },
+    {
+        "arrival_date_year": 2015,
+        "arrival_date_month": "October",
+        "arrival_date_day_of_month": 13,
+        "cancellations": 8
+    },
+    {
+        "arrival_date_year": 2015,
+        "arrival_date_month": "October",
+        "arrival_date_day_of_month": 14,
+        "cancellations": 4
+    },
+    {
+        "arrival_date_year": 2015,
+        "arrival_date_month": "October",
+        "arrival_date_day_of_month": 15,
+        "cancellations": 67
+    },
+    {
+        "arrival_date_year": 2015,
+        "arrival_date_month": "October",
+        "arrival_date_day_of_month": 16,
+        "cancellations": 222
+    },
+    {
+        "arrival_date_year": 2015,
+        "arrival_date_month": "October",
+        "arrival_date_day_of_month": 17,
+        "cancellations": 68
+    },
+    {
+        "arrival_date_year": 2015,
+        "arrival_date_month": "October",
+        "arrival_date_day_of_month": 18,
+        "cancellations": 18
+    },
+    {
+        "arrival_date_year": 2015,
+        "arrival_date_month": "October",
+        "arrival_date_day_of_month": 19,
+        "cancellations": 59
+    },
+    {
+        "arrival_date_year": 2015,
+        "arrival_date_month": "October",
+        "arrival_date_day_of_month": 20,
+        "cancellations": 15
+    },
+    {
+        "arrival_date_year": 2015,
+        "arrival_date_month": "October",
+        "arrival_date_day_of_month": 21,
+        "cancellations": 28
+    },
+    {
+        "arrival_date_year": 2015,
+        "arrival_date_month": "October",
+        "arrival_date_day_of_month": 22,
+        "cancellations": 12
+    },
+    {
+        "arrival_date_year": 2015,
+        "arrival_date_month": "October",
+        "arrival_date_day_of_month": 23,
+        "cancellations": 13
+    },
+    {
+        "arrival_date_year": 2015,
+        "arrival_date_month": "October",
+        "arrival_date_day_of_month": 24,
+        "cancellations": 99
+    },
+    {
+        "arrival_date_year": 2015,
+        "arrival_date_month": "October",
+        "arrival_date_day_of_month": 25,
+        "cancellations": 13
+    },
+    {
+        "arrival_date_year": 2015,
+        "arrival_date_month": "October",
+        "arrival_date_day_of_month": 26,
+        "cancellations": 36
+    },
+    {
+        "arrival_date_year": 2015,
+        "arrival_date_month": "October",
+        "arrival_date_day_of_month": 27,
+        "cancellations": 1
+    },
+    {
+        "arrival_date_year": 2015,
+        "arrival_date_month": "October",
+        "arrival_date_day_of_month": 28,
+        "cancellations": 8
+    },
+    {
+        "arrival_date_year": 2015,
+        "arrival_date_month": "October",
+        "arrival_date_day_of_month": 29,
+        "cancellations": 54
+    },
+    {
+        "arrival_date_year": 2015,
+        "arrival_date_month": "October",
+        "arrival_date_day_of_month": 30,
+        "cancellations": 38
+    },
+    {
+        "arrival_date_year": 2015,
+        "arrival_date_month": "October",
+        "arrival_date_day_of_month": 31,
+        "cancellations": 93
+    },
+    {
+        "arrival_date_year": 2015,
+        "arrival_date_month": "September",
+        "arrival_date_day_of_month": 1,
+        "cancellations": 18
+    },
+    {
+        "arrival_date_year": 2015,
+        "arrival_date_month": "September",
+        "arrival_date_day_of_month": 2,
+        "cancellations": 55
+    },
+    {
+        "arrival_date_year": 2015,
+        "arrival_date_month": "September",
+        "arrival_date_day_of_month": 3,
+        "cancellations": 66
+    },
+    {
+        "arrival_date_year": 2015,
+        "arrival_date_month": "September",
+        "arrival_date_day_of_month": 4,
+        "cancellations": 42
+    },
+    {
+        "arrival_date_year": 2015,
+        "arrival_date_month": "September",
+        "arrival_date_day_of_month": 5,
+        "cancellations": 145
+    },
+    {
+        "arrival_date_year": 2015,
+        "arrival_date_month": "September",
+        "arrival_date_day_of_month": 6,
+        "cancellations": 25
+    },
+    {
+        "arrival_date_year": 2015,
+        "arrival_date_month": "September",
+        "arrival_date_day_of_month": 7,
+        "cancellations": 41
+    },
+    {
+        "arrival_date_year": 2015,
+        "arrival_date_month": "September",
+        "arrival_date_day_of_month": 8,
+        "cancellations": 34
+    },
+    {
+        "arrival_date_year": 2015,
+        "arrival_date_month": "September",
+        "arrival_date_day_of_month": 9,
+        "cancellations": 64
+    },
+    {
+        "arrival_date_year": 2015,
+        "arrival_date_month": "September",
+        "arrival_date_day_of_month": 10,
+        "cancellations": 75
+    },
+    {
+        "arrival_date_year": 2015,
+        "arrival_date_month": "September",
+        "arrival_date_day_of_month": 11,
+        "cancellations": 79
+    },
+    {
+        "arrival_date_year": 2015,
+        "arrival_date_month": "September",
+        "arrival_date_day_of_month": 12,
+        "cancellations": 89
+    },
+    {
+        "arrival_date_year": 2015,
+        "arrival_date_month": "September",
+        "arrival_date_day_of_month": 13,
+        "cancellations": 14
+    },
+    {
+        "arrival_date_year": 2015,
+        "arrival_date_month": "September",
+        "arrival_date_day_of_month": 14,
+        "cancellations": 36
+    },
+    {
+        "arrival_date_year": 2015,
+        "arrival_date_month": "September",
+        "arrival_date_day_of_month": 15,
+        "cancellations": 41
+    },
+    {
+        "arrival_date_year": 2015,
+        "arrival_date_month": "September",
+        "arrival_date_day_of_month": 16,
+        "cancellations": 51
+    },
+    {
+        "arrival_date_year": 2015,
+        "arrival_date_month": "September",
+        "arrival_date_day_of_month": 17,
+        "cancellations": 194
+    },
+    {
+        "arrival_date_year": 2015,
+        "arrival_date_month": "September",
+        "arrival_date_day_of_month": 18,
+        "cancellations": 203
+    },
+    {
+        "arrival_date_year": 2015,
+        "arrival_date_month": "September",
+        "arrival_date_day_of_month": 19,
+        "cancellations": 76
+    },
+    {
+        "arrival_date_year": 2015,
+        "arrival_date_month": "September",
+        "arrival_date_day_of_month": 20,
+        "cancellations": 42
+    },
+    {
+        "arrival_date_year": 2015,
+        "arrival_date_month": "September",
+        "arrival_date_day_of_month": 21,
+        "cancellations": 79
+    },
+    {
+        "arrival_date_year": 2015,
+        "arrival_date_month": "September",
+        "arrival_date_day_of_month": 22,
+        "cancellations": 14
+    },
+    {
+        "arrival_date_year": 2015,
+        "arrival_date_month": "September",
+        "arrival_date_day_of_month": 23,
+        "cancellations": 45
+    },
+    {
+        "arrival_date_year": 2015,
+        "arrival_date_month": "September",
+        "arrival_date_day_of_month": 24,
+        "cancellations": 120
+    },
+    {
+        "arrival_date_year": 2015,
+        "arrival_date_month": "September",
+        "arrival_date_day_of_month": 25,
+        "cancellations": 123
+    },
+    {
+        "arrival_date_year": 2015,
+        "arrival_date_month": "September",
+        "arrival_date_day_of_month": 26,
+        "cancellations": 114
+    },
+    {
+        "arrival_date_year": 2015,
+        "arrival_date_month": "September",
+        "arrival_date_day_of_month": 27,
+        "cancellations": 18
+    },
+    {
+        "arrival_date_year": 2015,
+        "arrival_date_month": "September",
+        "arrival_date_day_of_month": 28,
+        "cancellations": 43
+    },
+    {
+        "arrival_date_year": 2015,
+        "arrival_date_month": "September",
+        "arrival_date_day_of_month": 29,
+        "cancellations": 47
+    },
+    {
+        "arrival_date_year": 2015,
+        "arrival_date_month": "September",
+        "arrival_date_day_of_month": 30,
+        "cancellations": 101
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "April",
+        "arrival_date_day_of_month": 1,
+        "cancellations": 27
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "April",
+        "arrival_date_day_of_month": 2,
+        "cancellations": 33
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "April",
+        "arrival_date_day_of_month": 3,
+        "cancellations": 32
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "April",
+        "arrival_date_day_of_month": 4,
+        "cancellations": 60
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "April",
+        "arrival_date_day_of_month": 5,
+        "cancellations": 29
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "April",
+        "arrival_date_day_of_month": 6,
+        "cancellations": 89
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "April",
+        "arrival_date_day_of_month": 7,
+        "cancellations": 78
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "April",
+        "arrival_date_day_of_month": 8,
+        "cancellations": 54
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "April",
+        "arrival_date_day_of_month": 9,
+        "cancellations": 79
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "April",
+        "arrival_date_day_of_month": 10,
+        "cancellations": 43
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "April",
+        "arrival_date_day_of_month": 11,
+        "cancellations": 61
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "April",
+        "arrival_date_day_of_month": 12,
+        "cancellations": 65
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "April",
+        "arrival_date_day_of_month": 13,
+        "cancellations": 65
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "April",
+        "arrival_date_day_of_month": 14,
+        "cancellations": 124
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "April",
+        "arrival_date_day_of_month": 15,
+        "cancellations": 53
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "April",
+        "arrival_date_day_of_month": 16,
+        "cancellations": 44
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "April",
+        "arrival_date_day_of_month": 17,
+        "cancellations": 58
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "April",
+        "arrival_date_day_of_month": 18,
+        "cancellations": 44
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "April",
+        "arrival_date_day_of_month": 19,
+        "cancellations": 93
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "April",
+        "arrival_date_day_of_month": 20,
+        "cancellations": 76
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "April",
+        "arrival_date_day_of_month": 21,
+        "cancellations": 57
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "April",
+        "arrival_date_day_of_month": 22,
+        "cancellations": 131
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "April",
+        "arrival_date_day_of_month": 23,
+        "cancellations": 51
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "April",
+        "arrival_date_day_of_month": 24,
+        "cancellations": 86
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "April",
+        "arrival_date_day_of_month": 25,
+        "cancellations": 56
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "April",
+        "arrival_date_day_of_month": 26,
+        "cancellations": 40
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "April",
+        "arrival_date_day_of_month": 27,
+        "cancellations": 75
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "April",
+        "arrival_date_day_of_month": 28,
+        "cancellations": 168
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "April",
+        "arrival_date_day_of_month": 29,
+        "cancellations": 127
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "April",
+        "arrival_date_day_of_month": 30,
+        "cancellations": 63
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "August",
+        "arrival_date_day_of_month": 1,
+        "cancellations": 70
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "August",
+        "arrival_date_day_of_month": 2,
+        "cancellations": 43
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "August",
+        "arrival_date_day_of_month": 3,
+        "cancellations": 41
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "August",
+        "arrival_date_day_of_month": 4,
+        "cancellations": 71
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "August",
+        "arrival_date_day_of_month": 5,
+        "cancellations": 67
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "August",
+        "arrival_date_day_of_month": 6,
+        "cancellations": 58
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "August",
+        "arrival_date_day_of_month": 7,
+        "cancellations": 44
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "August",
+        "arrival_date_day_of_month": 8,
+        "cancellations": 68
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "August",
+        "arrival_date_day_of_month": 9,
+        "cancellations": 36
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "August",
+        "arrival_date_day_of_month": 10,
+        "cancellations": 63
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "August",
+        "arrival_date_day_of_month": 11,
+        "cancellations": 95
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "August",
+        "arrival_date_day_of_month": 12,
+        "cancellations": 53
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "August",
+        "arrival_date_day_of_month": 13,
+        "cancellations": 99
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "August",
+        "arrival_date_day_of_month": 14,
+        "cancellations": 43
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "August",
+        "arrival_date_day_of_month": 15,
+        "cancellations": 65
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "August",
+        "arrival_date_day_of_month": 16,
+        "cancellations": 54
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "August",
+        "arrival_date_day_of_month": 17,
+        "cancellations": 55
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "August",
+        "arrival_date_day_of_month": 18,
+        "cancellations": 89
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "August",
+        "arrival_date_day_of_month": 19,
+        "cancellations": 73
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "August",
+        "arrival_date_day_of_month": 20,
+        "cancellations": 61
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "August",
+        "arrival_date_day_of_month": 21,
+        "cancellations": 42
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "August",
+        "arrival_date_day_of_month": 22,
+        "cancellations": 68
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "August",
+        "arrival_date_day_of_month": 23,
+        "cancellations": 39
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "August",
+        "arrival_date_day_of_month": 24,
+        "cancellations": 57
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "August",
+        "arrival_date_day_of_month": 25,
+        "cancellations": 67
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "August",
+        "arrival_date_day_of_month": 26,
+        "cancellations": 63
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "August",
+        "arrival_date_day_of_month": 27,
+        "cancellations": 58
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "August",
+        "arrival_date_day_of_month": 28,
+        "cancellations": 51
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "August",
+        "arrival_date_day_of_month": 29,
+        "cancellations": 53
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "August",
+        "arrival_date_day_of_month": 30,
+        "cancellations": 45
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "August",
+        "arrival_date_day_of_month": 31,
+        "cancellations": 34
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "December",
+        "arrival_date_day_of_month": 1,
+        "cancellations": 98
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "December",
+        "arrival_date_day_of_month": 2,
+        "cancellations": 80
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "December",
+        "arrival_date_day_of_month": 3,
+        "cancellations": 70
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "December",
+        "arrival_date_day_of_month": 4,
+        "cancellations": 31
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "December",
+        "arrival_date_day_of_month": 5,
+        "cancellations": 31
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "December",
+        "arrival_date_day_of_month": 6,
+        "cancellations": 40
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "December",
+        "arrival_date_day_of_month": 7,
+        "cancellations": 47
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "December",
+        "arrival_date_day_of_month": 8,
+        "cancellations": 86
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "December",
+        "arrival_date_day_of_month": 9,
+        "cancellations": 47
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "December",
+        "arrival_date_day_of_month": 10,
+        "cancellations": 28
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "December",
+        "arrival_date_day_of_month": 11,
+        "cancellations": 8
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "December",
+        "arrival_date_day_of_month": 12,
+        "cancellations": 23
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "December",
+        "arrival_date_day_of_month": 13,
+        "cancellations": 12
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "December",
+        "arrival_date_day_of_month": 14,
+        "cancellations": 11
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "December",
+        "arrival_date_day_of_month": 15,
+        "cancellations": 44
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "December",
+        "arrival_date_day_of_month": 16,
+        "cancellations": 61
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "December",
+        "arrival_date_day_of_month": 17,
+        "cancellations": 29
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "December",
+        "arrival_date_day_of_month": 18,
+        "cancellations": 11
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "December",
+        "arrival_date_day_of_month": 19,
+        "cancellations": 27
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "December",
+        "arrival_date_day_of_month": 20,
+        "cancellations": 25
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "December",
+        "arrival_date_day_of_month": 21,
+        "cancellations": 26
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "December",
+        "arrival_date_day_of_month": 22,
+        "cancellations": 56
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "December",
+        "arrival_date_day_of_month": 23,
+        "cancellations": 49
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "December",
+        "arrival_date_day_of_month": 24,
+        "cancellations": 38
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "December",
+        "arrival_date_day_of_month": 25,
+        "cancellations": 18
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "December",
+        "arrival_date_day_of_month": 26,
+        "cancellations": 93
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "December",
+        "arrival_date_day_of_month": 27,
+        "cancellations": 61
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "December",
+        "arrival_date_day_of_month": 28,
+        "cancellations": 64
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "December",
+        "arrival_date_day_of_month": 29,
+        "cancellations": 68
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "December",
+        "arrival_date_day_of_month": 30,
+        "cancellations": 89
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "December",
+        "arrival_date_day_of_month": 31,
+        "cancellations": 27
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "February",
+        "arrival_date_day_of_month": 1,
+        "cancellations": 14
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "February",
+        "arrival_date_day_of_month": 2,
+        "cancellations": 17
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "February",
+        "arrival_date_day_of_month": 3,
+        "cancellations": 14
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "February",
+        "arrival_date_day_of_month": 4,
+        "cancellations": 19
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "February",
+        "arrival_date_day_of_month": 5,
+        "cancellations": 26
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "February",
+        "arrival_date_day_of_month": 6,
+        "cancellations": 53
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "February",
+        "arrival_date_day_of_month": 7,
+        "cancellations": 41
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "February",
+        "arrival_date_day_of_month": 8,
+        "cancellations": 15
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "February",
+        "arrival_date_day_of_month": 9,
+        "cancellations": 21
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "February",
+        "arrival_date_day_of_month": 10,
+        "cancellations": 14
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "February",
+        "arrival_date_day_of_month": 11,
+        "cancellations": 32
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "February",
+        "arrival_date_day_of_month": 12,
+        "cancellations": 139
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "February",
+        "arrival_date_day_of_month": 13,
+        "cancellations": 31
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "February",
+        "arrival_date_day_of_month": 14,
+        "cancellations": 28
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "February",
+        "arrival_date_day_of_month": 15,
+        "cancellations": 15
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "February",
+        "arrival_date_day_of_month": 16,
+        "cancellations": 8
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "February",
+        "arrival_date_day_of_month": 17,
+        "cancellations": 212
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "February",
+        "arrival_date_day_of_month": 18,
+        "cancellations": 13
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "February",
+        "arrival_date_day_of_month": 19,
+        "cancellations": 93
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "February",
+        "arrival_date_day_of_month": 20,
+        "cancellations": 19
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "February",
+        "arrival_date_day_of_month": 21,
+        "cancellations": 55
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "February",
+        "arrival_date_day_of_month": 22,
+        "cancellations": 17
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "February",
+        "arrival_date_day_of_month": 23,
+        "cancellations": 10
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "February",
+        "arrival_date_day_of_month": 24,
+        "cancellations": 35
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "February",
+        "arrival_date_day_of_month": 25,
+        "cancellations": 60
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "February",
+        "arrival_date_day_of_month": 26,
+        "cancellations": 125
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "February",
+        "arrival_date_day_of_month": 27,
+        "cancellations": 44
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "February",
+        "arrival_date_day_of_month": 28,
+        "cancellations": 128
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "February",
+        "arrival_date_day_of_month": 29,
+        "cancellations": 39
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "January",
+        "arrival_date_day_of_month": 1,
+        "cancellations": 11
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "January",
+        "arrival_date_day_of_month": 2,
+        "cancellations": 64
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "January",
+        "arrival_date_day_of_month": 3,
+        "cancellations": 18
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "January",
+        "arrival_date_day_of_month": 4,
+        "cancellations": 11
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "January",
+        "arrival_date_day_of_month": 5,
+        "cancellations": 9
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "January",
+        "arrival_date_day_of_month": 6,
+        "cancellations": 5
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "January",
+        "arrival_date_day_of_month": 7,
+        "cancellations": 8
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "January",
+        "arrival_date_day_of_month": 8,
+        "cancellations": 12
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "January",
+        "arrival_date_day_of_month": 9,
+        "cancellations": 12
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "January",
+        "arrival_date_day_of_month": 10,
+        "cancellations": 7
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "January",
+        "arrival_date_day_of_month": 11,
+        "cancellations": 1
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "January",
+        "arrival_date_day_of_month": 12,
+        "cancellations": 15
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "January",
+        "arrival_date_day_of_month": 13,
+        "cancellations": 7
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "January",
+        "arrival_date_day_of_month": 14,
+        "cancellations": 18
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "January",
+        "arrival_date_day_of_month": 15,
+        "cancellations": 17
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "January",
+        "arrival_date_day_of_month": 16,
+        "cancellations": 14
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "January",
+        "arrival_date_day_of_month": 17,
+        "cancellations": 6
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "January",
+        "arrival_date_day_of_month": 18,
+        "cancellations": 11
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "January",
+        "arrival_date_day_of_month": 19,
+        "cancellations": 38
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "January",
+        "arrival_date_day_of_month": 20,
+        "cancellations": 8
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "January",
+        "arrival_date_day_of_month": 21,
+        "cancellations": 6
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "January",
+        "arrival_date_day_of_month": 22,
+        "cancellations": 85
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "January",
+        "arrival_date_day_of_month": 23,
+        "cancellations": 8
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "January",
+        "arrival_date_day_of_month": 24,
+        "cancellations": 5
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "January",
+        "arrival_date_day_of_month": 25,
+        "cancellations": 15
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "January",
+        "arrival_date_day_of_month": 26,
+        "cancellations": 9
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "January",
+        "arrival_date_day_of_month": 27,
+        "cancellations": 85
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "January",
+        "arrival_date_day_of_month": 28,
+        "cancellations": 19
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "January",
+        "arrival_date_day_of_month": 29,
+        "cancellations": 19
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "January",
+        "arrival_date_day_of_month": 30,
+        "cancellations": 11
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "January",
+        "arrival_date_day_of_month": 31,
+        "cancellations": 3
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "July",
+        "arrival_date_day_of_month": 1,
+        "cancellations": 81
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "July",
+        "arrival_date_day_of_month": 2,
+        "cancellations": 51
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "July",
+        "arrival_date_day_of_month": 3,
+        "cancellations": 32
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "July",
+        "arrival_date_day_of_month": 4,
+        "cancellations": 42
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "July",
+        "arrival_date_day_of_month": 5,
+        "cancellations": 17
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "July",
+        "arrival_date_day_of_month": 6,
+        "cancellations": 87
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "July",
+        "arrival_date_day_of_month": 7,
+        "cancellations": 86
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "July",
+        "arrival_date_day_of_month": 8,
+        "cancellations": 51
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "July",
+        "arrival_date_day_of_month": 9,
+        "cancellations": 43
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "July",
+        "arrival_date_day_of_month": 10,
+        "cancellations": 17
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "July",
+        "arrival_date_day_of_month": 11,
+        "cancellations": 63
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "July",
+        "arrival_date_day_of_month": 12,
+        "cancellations": 36
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "July",
+        "arrival_date_day_of_month": 13,
+        "cancellations": 27
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "July",
+        "arrival_date_day_of_month": 14,
+        "cancellations": 71
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "July",
+        "arrival_date_day_of_month": 15,
+        "cancellations": 48
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "July",
+        "arrival_date_day_of_month": 16,
+        "cancellations": 67
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "July",
+        "arrival_date_day_of_month": 17,
+        "cancellations": 38
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "July",
+        "arrival_date_day_of_month": 18,
+        "cancellations": 55
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "July",
+        "arrival_date_day_of_month": 19,
+        "cancellations": 27
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "July",
+        "arrival_date_day_of_month": 20,
+        "cancellations": 58
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "July",
+        "arrival_date_day_of_month": 21,
+        "cancellations": 62
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "July",
+        "arrival_date_day_of_month": 22,
+        "cancellations": 42
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "July",
+        "arrival_date_day_of_month": 23,
+        "cancellations": 58
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "July",
+        "arrival_date_day_of_month": 24,
+        "cancellations": 38
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "July",
+        "arrival_date_day_of_month": 25,
+        "cancellations": 58
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "July",
+        "arrival_date_day_of_month": 26,
+        "cancellations": 30
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "July",
+        "arrival_date_day_of_month": 27,
+        "cancellations": 60
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "July",
+        "arrival_date_day_of_month": 28,
+        "cancellations": 55
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "July",
+        "arrival_date_day_of_month": 29,
+        "cancellations": 20
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "July",
+        "arrival_date_day_of_month": 30,
+        "cancellations": 48
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "July",
+        "arrival_date_day_of_month": 31,
+        "cancellations": 31
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "June",
+        "arrival_date_day_of_month": 1,
+        "cancellations": 45
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "June",
+        "arrival_date_day_of_month": 2,
+        "cancellations": 126
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "June",
+        "arrival_date_day_of_month": 3,
+        "cancellations": 75
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "June",
+        "arrival_date_day_of_month": 4,
+        "cancellations": 55
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "June",
+        "arrival_date_day_of_month": 5,
+        "cancellations": 44
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "June",
+        "arrival_date_day_of_month": 6,
+        "cancellations": 30
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "June",
+        "arrival_date_day_of_month": 7,
+        "cancellations": 81
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "June",
+        "arrival_date_day_of_month": 8,
+        "cancellations": 117
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "June",
+        "arrival_date_day_of_month": 9,
+        "cancellations": 112
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "June",
+        "arrival_date_day_of_month": 10,
+        "cancellations": 60
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "June",
+        "arrival_date_day_of_month": 11,
+        "cancellations": 20
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "June",
+        "arrival_date_day_of_month": 12,
+        "cancellations": 130
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "June",
+        "arrival_date_day_of_month": 13,
+        "cancellations": 31
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "June",
+        "arrival_date_day_of_month": 14,
+        "cancellations": 143
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "June",
+        "arrival_date_day_of_month": 15,
+        "cancellations": 150
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "June",
+        "arrival_date_day_of_month": 16,
+        "cancellations": 60
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "June",
+        "arrival_date_day_of_month": 17,
+        "cancellations": 178
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "June",
+        "arrival_date_day_of_month": 18,
+        "cancellations": 44
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "June",
+        "arrival_date_day_of_month": 19,
+        "cancellations": 32
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "June",
+        "arrival_date_day_of_month": 20,
+        "cancellations": 83
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "June",
+        "arrival_date_day_of_month": 21,
+        "cancellations": 33
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "June",
+        "arrival_date_day_of_month": 22,
+        "cancellations": 22
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "June",
+        "arrival_date_day_of_month": 23,
+        "cancellations": 59
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "June",
+        "arrival_date_day_of_month": 24,
+        "cancellations": 53
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "June",
+        "arrival_date_day_of_month": 25,
+        "cancellations": 27
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "June",
+        "arrival_date_day_of_month": 26,
+        "cancellations": 60
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "June",
+        "arrival_date_day_of_month": 27,
+        "cancellations": 84
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "June",
+        "arrival_date_day_of_month": 28,
+        "cancellations": 38
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "June",
+        "arrival_date_day_of_month": 29,
+        "cancellations": 26
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "June",
+        "arrival_date_day_of_month": 30,
+        "cancellations": 78
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "March",
+        "arrival_date_day_of_month": 1,
+        "cancellations": 30
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "March",
+        "arrival_date_day_of_month": 2,
+        "cancellations": 43
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "March",
+        "arrival_date_day_of_month": 3,
+        "cancellations": 27
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "March",
+        "arrival_date_day_of_month": 4,
+        "cancellations": 81
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "March",
+        "arrival_date_day_of_month": 5,
+        "cancellations": 34
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "March",
+        "arrival_date_day_of_month": 6,
+        "cancellations": 9
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "March",
+        "arrival_date_day_of_month": 7,
+        "cancellations": 31
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "March",
+        "arrival_date_day_of_month": 8,
+        "cancellations": 17
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "March",
+        "arrival_date_day_of_month": 9,
+        "cancellations": 25
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "March",
+        "arrival_date_day_of_month": 10,
+        "cancellations": 24
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "March",
+        "arrival_date_day_of_month": 11,
+        "cancellations": 47
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "March",
+        "arrival_date_day_of_month": 12,
+        "cancellations": 29
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "March",
+        "arrival_date_day_of_month": 13,
+        "cancellations": 18
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "March",
+        "arrival_date_day_of_month": 14,
+        "cancellations": 15
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "March",
+        "arrival_date_day_of_month": 15,
+        "cancellations": 18
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "March",
+        "arrival_date_day_of_month": 16,
+        "cancellations": 18
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "March",
+        "arrival_date_day_of_month": 17,
+        "cancellations": 54
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "March",
+        "arrival_date_day_of_month": 18,
+        "cancellations": 87
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "March",
+        "arrival_date_day_of_month": 19,
+        "cancellations": 88
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "March",
+        "arrival_date_day_of_month": 20,
+        "cancellations": 109
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "March",
+        "arrival_date_day_of_month": 21,
+        "cancellations": 59
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "March",
+        "arrival_date_day_of_month": 22,
+        "cancellations": 67
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "March",
+        "arrival_date_day_of_month": 23,
+        "cancellations": 34
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "March",
+        "arrival_date_day_of_month": 24,
+        "cancellations": 111
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "March",
+        "arrival_date_day_of_month": 25,
+        "cancellations": 123
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "March",
+        "arrival_date_day_of_month": 26,
+        "cancellations": 48
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "March",
+        "arrival_date_day_of_month": 27,
+        "cancellations": 27
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "March",
+        "arrival_date_day_of_month": 28,
+        "cancellations": 41
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "March",
+        "arrival_date_day_of_month": 29,
+        "cancellations": 21
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "March",
+        "arrival_date_day_of_month": 30,
+        "cancellations": 67
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "March",
+        "arrival_date_day_of_month": 31,
+        "cancellations": 75
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "May",
+        "arrival_date_day_of_month": 1,
+        "cancellations": 30
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "May",
+        "arrival_date_day_of_month": 2,
+        "cancellations": 82
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "May",
+        "arrival_date_day_of_month": 3,
+        "cancellations": 19
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "May",
+        "arrival_date_day_of_month": 4,
+        "cancellations": 32
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "May",
+        "arrival_date_day_of_month": 5,
+        "cancellations": 123
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "May",
+        "arrival_date_day_of_month": 6,
+        "cancellations": 36
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "May",
+        "arrival_date_day_of_month": 7,
+        "cancellations": 50
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "May",
+        "arrival_date_day_of_month": 8,
+        "cancellations": 49
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "May",
+        "arrival_date_day_of_month": 9,
+        "cancellations": 38
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "May",
+        "arrival_date_day_of_month": 10,
+        "cancellations": 51
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "May",
+        "arrival_date_day_of_month": 11,
+        "cancellations": 28
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "May",
+        "arrival_date_day_of_month": 12,
+        "cancellations": 123
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "May",
+        "arrival_date_day_of_month": 13,
+        "cancellations": 136
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "May",
+        "arrival_date_day_of_month": 14,
+        "cancellations": 48
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "May",
+        "arrival_date_day_of_month": 15,
+        "cancellations": 55
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "May",
+        "arrival_date_day_of_month": 16,
+        "cancellations": 70
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "May",
+        "arrival_date_day_of_month": 17,
+        "cancellations": 69
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "May",
+        "arrival_date_day_of_month": 18,
+        "cancellations": 51
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "May",
+        "arrival_date_day_of_month": 19,
+        "cancellations": 96
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "May",
+        "arrival_date_day_of_month": 20,
+        "cancellations": 113
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "May",
+        "arrival_date_day_of_month": 21,
+        "cancellations": 69
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "May",
+        "arrival_date_day_of_month": 22,
+        "cancellations": 27
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "May",
+        "arrival_date_day_of_month": 23,
+        "cancellations": 34
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "May",
+        "arrival_date_day_of_month": 24,
+        "cancellations": 128
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "May",
+        "arrival_date_day_of_month": 25,
+        "cancellations": 20
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "May",
+        "arrival_date_day_of_month": 26,
+        "cancellations": 63
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "May",
+        "arrival_date_day_of_month": 27,
+        "cancellations": 44
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "May",
+        "arrival_date_day_of_month": 28,
+        "cancellations": 35
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "May",
+        "arrival_date_day_of_month": 29,
+        "cancellations": 54
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "May",
+        "arrival_date_day_of_month": 30,
+        "cancellations": 53
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "May",
+        "arrival_date_day_of_month": 31,
+        "cancellations": 89
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "November",
+        "arrival_date_day_of_month": 1,
+        "cancellations": 129
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "November",
+        "arrival_date_day_of_month": 2,
+        "cancellations": 29
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "November",
+        "arrival_date_day_of_month": 3,
+        "cancellations": 138
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "November",
+        "arrival_date_day_of_month": 4,
+        "cancellations": 129
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "November",
+        "arrival_date_day_of_month": 5,
+        "cancellations": 110
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "November",
+        "arrival_date_day_of_month": 6,
+        "cancellations": 30
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "November",
+        "arrival_date_day_of_month": 7,
+        "cancellations": 235
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "November",
+        "arrival_date_day_of_month": 8,
+        "cancellations": 13
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "November",
+        "arrival_date_day_of_month": 9,
+        "cancellations": 13
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "November",
+        "arrival_date_day_of_month": 10,
+        "cancellations": 45
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "November",
+        "arrival_date_day_of_month": 11,
+        "cancellations": 66
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "November",
+        "arrival_date_day_of_month": 12,
+        "cancellations": 52
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "November",
+        "arrival_date_day_of_month": 13,
+        "cancellations": 27
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "November",
+        "arrival_date_day_of_month": 14,
+        "cancellations": 25
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "November",
+        "arrival_date_day_of_month": 15,
+        "cancellations": 14
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "November",
+        "arrival_date_day_of_month": 16,
+        "cancellations": 36
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "November",
+        "arrival_date_day_of_month": 17,
+        "cancellations": 59
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "November",
+        "arrival_date_day_of_month": 18,
+        "cancellations": 73
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "November",
+        "arrival_date_day_of_month": 19,
+        "cancellations": 38
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "November",
+        "arrival_date_day_of_month": 20,
+        "cancellations": 35
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "November",
+        "arrival_date_day_of_month": 21,
+        "cancellations": 34
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "November",
+        "arrival_date_day_of_month": 22,
+        "cancellations": 21
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "November",
+        "arrival_date_day_of_month": 23,
+        "cancellations": 23
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "November",
+        "arrival_date_day_of_month": 24,
+        "cancellations": 39
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "November",
+        "arrival_date_day_of_month": 25,
+        "cancellations": 66
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "November",
+        "arrival_date_day_of_month": 26,
+        "cancellations": 36
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "November",
+        "arrival_date_day_of_month": 27,
+        "cancellations": 33
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "November",
+        "arrival_date_day_of_month": 28,
+        "cancellations": 32
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "November",
+        "arrival_date_day_of_month": 29,
+        "cancellations": 37
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "November",
+        "arrival_date_day_of_month": 30,
+        "cancellations": 19
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "October",
+        "arrival_date_day_of_month": 1,
+        "cancellations": 121
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "October",
+        "arrival_date_day_of_month": 2,
+        "cancellations": 41
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "October",
+        "arrival_date_day_of_month": 3,
+        "cancellations": 68
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "October",
+        "arrival_date_day_of_month": 4,
+        "cancellations": 59
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "October",
+        "arrival_date_day_of_month": 5,
+        "cancellations": 82
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "October",
+        "arrival_date_day_of_month": 6,
+        "cancellations": 115
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "October",
+        "arrival_date_day_of_month": 7,
+        "cancellations": 71
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "October",
+        "arrival_date_day_of_month": 8,
+        "cancellations": 61
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "October",
+        "arrival_date_day_of_month": 9,
+        "cancellations": 74
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "October",
+        "arrival_date_day_of_month": 10,
+        "cancellations": 68
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "October",
+        "arrival_date_day_of_month": 11,
+        "cancellations": 52
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "October",
+        "arrival_date_day_of_month": 12,
+        "cancellations": 108
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "October",
+        "arrival_date_day_of_month": 13,
+        "cancellations": 200
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "October",
+        "arrival_date_day_of_month": 14,
+        "cancellations": 49
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "October",
+        "arrival_date_day_of_month": 15,
+        "cancellations": 74
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "October",
+        "arrival_date_day_of_month": 16,
+        "cancellations": 134
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "October",
+        "arrival_date_day_of_month": 17,
+        "cancellations": 102
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "October",
+        "arrival_date_day_of_month": 18,
+        "cancellations": 41
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "October",
+        "arrival_date_day_of_month": 19,
+        "cancellations": 38
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "October",
+        "arrival_date_day_of_month": 20,
+        "cancellations": 95
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "October",
+        "arrival_date_day_of_month": 21,
+        "cancellations": 143
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "October",
+        "arrival_date_day_of_month": 22,
+        "cancellations": 102
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "October",
+        "arrival_date_day_of_month": 23,
+        "cancellations": 25
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "October",
+        "arrival_date_day_of_month": 24,
+        "cancellations": 36
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "October",
+        "arrival_date_day_of_month": 25,
+        "cancellations": 28
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "October",
+        "arrival_date_day_of_month": 26,
+        "cancellations": 50
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "October",
+        "arrival_date_day_of_month": 27,
+        "cancellations": 99
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "October",
+        "arrival_date_day_of_month": 28,
+        "cancellations": 183
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "October",
+        "arrival_date_day_of_month": 29,
+        "cancellations": 81
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "October",
+        "arrival_date_day_of_month": 30,
+        "cancellations": 84
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "October",
+        "arrival_date_day_of_month": 31,
+        "cancellations": 30
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "September",
+        "arrival_date_day_of_month": 1,
+        "cancellations": 80
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "September",
+        "arrival_date_day_of_month": 2,
+        "cancellations": 67
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "September",
+        "arrival_date_day_of_month": 3,
+        "cancellations": 69
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "September",
+        "arrival_date_day_of_month": 4,
+        "cancellations": 52
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "September",
+        "arrival_date_day_of_month": 5,
+        "cancellations": 52
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "September",
+        "arrival_date_day_of_month": 6,
+        "cancellations": 23
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "September",
+        "arrival_date_day_of_month": 7,
+        "cancellations": 75
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "September",
+        "arrival_date_day_of_month": 8,
+        "cancellations": 115
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "September",
+        "arrival_date_day_of_month": 9,
+        "cancellations": 125
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "September",
+        "arrival_date_day_of_month": 10,
+        "cancellations": 27
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "September",
+        "arrival_date_day_of_month": 11,
+        "cancellations": 50
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "September",
+        "arrival_date_day_of_month": 12,
+        "cancellations": 50
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "September",
+        "arrival_date_day_of_month": 13,
+        "cancellations": 18
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "September",
+        "arrival_date_day_of_month": 14,
+        "cancellations": 37
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "September",
+        "arrival_date_day_of_month": 15,
+        "cancellations": 139
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "September",
+        "arrival_date_day_of_month": 16,
+        "cancellations": 99
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "September",
+        "arrival_date_day_of_month": 17,
+        "cancellations": 31
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "September",
+        "arrival_date_day_of_month": 18,
+        "cancellations": 44
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "September",
+        "arrival_date_day_of_month": 19,
+        "cancellations": 86
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "September",
+        "arrival_date_day_of_month": 20,
+        "cancellations": 89
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "September",
+        "arrival_date_day_of_month": 21,
+        "cancellations": 51
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "September",
+        "arrival_date_day_of_month": 22,
+        "cancellations": 78
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "September",
+        "arrival_date_day_of_month": 23,
+        "cancellations": 40
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "September",
+        "arrival_date_day_of_month": 24,
+        "cancellations": 62
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "September",
+        "arrival_date_day_of_month": 25,
+        "cancellations": 33
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "September",
+        "arrival_date_day_of_month": 26,
+        "cancellations": 137
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "September",
+        "arrival_date_day_of_month": 27,
+        "cancellations": 29
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "September",
+        "arrival_date_day_of_month": 28,
+        "cancellations": 36
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "September",
+        "arrival_date_day_of_month": 29,
+        "cancellations": 78
+    },
+    {
+        "arrival_date_year": 2016,
+        "arrival_date_month": "September",
+        "arrival_date_day_of_month": 30,
+        "cancellations": 150
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "April",
+        "arrival_date_day_of_month": 1,
+        "cancellations": 46
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "April",
+        "arrival_date_day_of_month": 2,
+        "cancellations": 21
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "April",
+        "arrival_date_day_of_month": 3,
+        "cancellations": 91
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "April",
+        "arrival_date_day_of_month": 4,
+        "cancellations": 64
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "April",
+        "arrival_date_day_of_month": 5,
+        "cancellations": 93
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "April",
+        "arrival_date_day_of_month": 6,
+        "cancellations": 136
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "April",
+        "arrival_date_day_of_month": 7,
+        "cancellations": 47
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "April",
+        "arrival_date_day_of_month": 8,
+        "cancellations": 89
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "April",
+        "arrival_date_day_of_month": 9,
+        "cancellations": 134
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "April",
+        "arrival_date_day_of_month": 10,
+        "cancellations": 63
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "April",
+        "arrival_date_day_of_month": 11,
+        "cancellations": 35
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "April",
+        "arrival_date_day_of_month": 12,
+        "cancellations": 47
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "April",
+        "arrival_date_day_of_month": 13,
+        "cancellations": 114
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "April",
+        "arrival_date_day_of_month": 14,
+        "cancellations": 104
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "April",
+        "arrival_date_day_of_month": 15,
+        "cancellations": 129
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "April",
+        "arrival_date_day_of_month": 16,
+        "cancellations": 82
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "April",
+        "arrival_date_day_of_month": 17,
+        "cancellations": 57
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "April",
+        "arrival_date_day_of_month": 18,
+        "cancellations": 47
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "April",
+        "arrival_date_day_of_month": 19,
+        "cancellations": 34
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "April",
+        "arrival_date_day_of_month": 20,
+        "cancellations": 59
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "April",
+        "arrival_date_day_of_month": 21,
+        "cancellations": 124
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "April",
+        "arrival_date_day_of_month": 22,
+        "cancellations": 118
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "April",
+        "arrival_date_day_of_month": 23,
+        "cancellations": 60
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "April",
+        "arrival_date_day_of_month": 24,
+        "cancellations": 33
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "April",
+        "arrival_date_day_of_month": 25,
+        "cancellations": 35
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "April",
+        "arrival_date_day_of_month": 26,
+        "cancellations": 194
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "April",
+        "arrival_date_day_of_month": 27,
+        "cancellations": 91
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "April",
+        "arrival_date_day_of_month": 28,
+        "cancellations": 100
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "April",
+        "arrival_date_day_of_month": 29,
+        "cancellations": 161
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "April",
+        "arrival_date_day_of_month": 30,
+        "cancellations": 55
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "August",
+        "arrival_date_day_of_month": 1,
+        "cancellations": 77
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "August",
+        "arrival_date_day_of_month": 2,
+        "cancellations": 48
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "August",
+        "arrival_date_day_of_month": 3,
+        "cancellations": 69
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "August",
+        "arrival_date_day_of_month": 4,
+        "cancellations": 57
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "August",
+        "arrival_date_day_of_month": 5,
+        "cancellations": 60
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "August",
+        "arrival_date_day_of_month": 6,
+        "cancellations": 57
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "August",
+        "arrival_date_day_of_month": 7,
+        "cancellations": 73
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "August",
+        "arrival_date_day_of_month": 8,
+        "cancellations": 54
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "August",
+        "arrival_date_day_of_month": 9,
+        "cancellations": 49
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "August",
+        "arrival_date_day_of_month": 10,
+        "cancellations": 58
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "August",
+        "arrival_date_day_of_month": 11,
+        "cancellations": 54
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "August",
+        "arrival_date_day_of_month": 12,
+        "cancellations": 64
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "August",
+        "arrival_date_day_of_month": 13,
+        "cancellations": 53
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "August",
+        "arrival_date_day_of_month": 14,
+        "cancellations": 64
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "August",
+        "arrival_date_day_of_month": 15,
+        "cancellations": 62
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "August",
+        "arrival_date_day_of_month": 16,
+        "cancellations": 91
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "August",
+        "arrival_date_day_of_month": 17,
+        "cancellations": 89
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "August",
+        "arrival_date_day_of_month": 18,
+        "cancellations": 81
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "August",
+        "arrival_date_day_of_month": 19,
+        "cancellations": 83
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "August",
+        "arrival_date_day_of_month": 20,
+        "cancellations": 45
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "August",
+        "arrival_date_day_of_month": 21,
+        "cancellations": 57
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "August",
+        "arrival_date_day_of_month": 22,
+        "cancellations": 26
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "August",
+        "arrival_date_day_of_month": 23,
+        "cancellations": 38
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "August",
+        "arrival_date_day_of_month": 24,
+        "cancellations": 58
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "August",
+        "arrival_date_day_of_month": 25,
+        "cancellations": 51
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "August",
+        "arrival_date_day_of_month": 26,
+        "cancellations": 69
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "August",
+        "arrival_date_day_of_month": 27,
+        "cancellations": 49
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "August",
+        "arrival_date_day_of_month": 28,
+        "cancellations": 64
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "August",
+        "arrival_date_day_of_month": 29,
+        "cancellations": 44
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "August",
+        "arrival_date_day_of_month": 30,
+        "cancellations": 27
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "August",
+        "arrival_date_day_of_month": 31,
+        "cancellations": 45
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "February",
+        "arrival_date_day_of_month": 1,
+        "cancellations": 96
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "February",
+        "arrival_date_day_of_month": 2,
+        "cancellations": 42
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "February",
+        "arrival_date_day_of_month": 3,
+        "cancellations": 37
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "February",
+        "arrival_date_day_of_month": 4,
+        "cancellations": 35
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "February",
+        "arrival_date_day_of_month": 5,
+        "cancellations": 19
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "February",
+        "arrival_date_day_of_month": 6,
+        "cancellations": 25
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "February",
+        "arrival_date_day_of_month": 7,
+        "cancellations": 18
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "February",
+        "arrival_date_day_of_month": 8,
+        "cancellations": 9
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "February",
+        "arrival_date_day_of_month": 9,
+        "cancellations": 46
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "February",
+        "arrival_date_day_of_month": 10,
+        "cancellations": 81
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "February",
+        "arrival_date_day_of_month": 11,
+        "cancellations": 41
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "February",
+        "arrival_date_day_of_month": 12,
+        "cancellations": 98
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "February",
+        "arrival_date_day_of_month": 13,
+        "cancellations": 46
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "February",
+        "arrival_date_day_of_month": 14,
+        "cancellations": 52
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "February",
+        "arrival_date_day_of_month": 15,
+        "cancellations": 26
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "February",
+        "arrival_date_day_of_month": 16,
+        "cancellations": 48
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "February",
+        "arrival_date_day_of_month": 17,
+        "cancellations": 83
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "February",
+        "arrival_date_day_of_month": 18,
+        "cancellations": 38
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "February",
+        "arrival_date_day_of_month": 19,
+        "cancellations": 34
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "February",
+        "arrival_date_day_of_month": 20,
+        "cancellations": 62
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "February",
+        "arrival_date_day_of_month": 21,
+        "cancellations": 23
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "February",
+        "arrival_date_day_of_month": 22,
+        "cancellations": 35
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "February",
+        "arrival_date_day_of_month": 23,
+        "cancellations": 70
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "February",
+        "arrival_date_day_of_month": 24,
+        "cancellations": 54
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "February",
+        "arrival_date_day_of_month": 25,
+        "cancellations": 127
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "February",
+        "arrival_date_day_of_month": 26,
+        "cancellations": 47
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "February",
+        "arrival_date_day_of_month": 27,
+        "cancellations": 31
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "February",
+        "arrival_date_day_of_month": 28,
+        "cancellations": 36
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "January",
+        "arrival_date_day_of_month": 1,
+        "cancellations": 49
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "January",
+        "arrival_date_day_of_month": 2,
+        "cancellations": 61
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "January",
+        "arrival_date_day_of_month": 3,
+        "cancellations": 43
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "January",
+        "arrival_date_day_of_month": 4,
+        "cancellations": 32
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "January",
+        "arrival_date_day_of_month": 5,
+        "cancellations": 38
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "January",
+        "arrival_date_day_of_month": 6,
+        "cancellations": 39
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "January",
+        "arrival_date_day_of_month": 7,
+        "cancellations": 16
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "January",
+        "arrival_date_day_of_month": 8,
+        "cancellations": 50
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "January",
+        "arrival_date_day_of_month": 9,
+        "cancellations": 15
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "January",
+        "arrival_date_day_of_month": 10,
+        "cancellations": 15
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "January",
+        "arrival_date_day_of_month": 11,
+        "cancellations": 15
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "January",
+        "arrival_date_day_of_month": 12,
+        "cancellations": 47
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "January",
+        "arrival_date_day_of_month": 13,
+        "cancellations": 33
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "January",
+        "arrival_date_day_of_month": 14,
+        "cancellations": 145
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "January",
+        "arrival_date_day_of_month": 15,
+        "cancellations": 19
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "January",
+        "arrival_date_day_of_month": 16,
+        "cancellations": 39
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "January",
+        "arrival_date_day_of_month": 17,
+        "cancellations": 10
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "January",
+        "arrival_date_day_of_month": 18,
+        "cancellations": 85
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "January",
+        "arrival_date_day_of_month": 19,
+        "cancellations": 35
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "January",
+        "arrival_date_day_of_month": 20,
+        "cancellations": 31
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "January",
+        "arrival_date_day_of_month": 21,
+        "cancellations": 37
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "January",
+        "arrival_date_day_of_month": 22,
+        "cancellations": 20
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "January",
+        "arrival_date_day_of_month": 23,
+        "cancellations": 104
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "January",
+        "arrival_date_day_of_month": 24,
+        "cancellations": 21
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "January",
+        "arrival_date_day_of_month": 25,
+        "cancellations": 99
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "January",
+        "arrival_date_day_of_month": 26,
+        "cancellations": 32
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "January",
+        "arrival_date_day_of_month": 27,
+        "cancellations": 33
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "January",
+        "arrival_date_day_of_month": 28,
+        "cancellations": 35
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "January",
+        "arrival_date_day_of_month": 29,
+        "cancellations": 15
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "January",
+        "arrival_date_day_of_month": 30,
+        "cancellations": 26
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "January",
+        "arrival_date_day_of_month": 31,
+        "cancellations": 11
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "July",
+        "arrival_date_day_of_month": 1,
+        "cancellations": 70
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "July",
+        "arrival_date_day_of_month": 2,
+        "cancellations": 54
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "July",
+        "arrival_date_day_of_month": 3,
+        "cancellations": 64
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "July",
+        "arrival_date_day_of_month": 4,
+        "cancellations": 51
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "July",
+        "arrival_date_day_of_month": 5,
+        "cancellations": 68
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "July",
+        "arrival_date_day_of_month": 6,
+        "cancellations": 63
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "July",
+        "arrival_date_day_of_month": 7,
+        "cancellations": 83
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "July",
+        "arrival_date_day_of_month": 8,
+        "cancellations": 46
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "July",
+        "arrival_date_day_of_month": 9,
+        "cancellations": 81
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "July",
+        "arrival_date_day_of_month": 10,
+        "cancellations": 67
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "July",
+        "arrival_date_day_of_month": 11,
+        "cancellations": 69
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "July",
+        "arrival_date_day_of_month": 12,
+        "cancellations": 69
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "July",
+        "arrival_date_day_of_month": 13,
+        "cancellations": 55
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "July",
+        "arrival_date_day_of_month": 14,
+        "cancellations": 46
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "July",
+        "arrival_date_day_of_month": 15,
+        "cancellations": 103
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "July",
+        "arrival_date_day_of_month": 16,
+        "cancellations": 50
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "July",
+        "arrival_date_day_of_month": 17,
+        "cancellations": 80
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "July",
+        "arrival_date_day_of_month": 18,
+        "cancellations": 50
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "July",
+        "arrival_date_day_of_month": 19,
+        "cancellations": 24
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "July",
+        "arrival_date_day_of_month": 20,
+        "cancellations": 44
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "July",
+        "arrival_date_day_of_month": 21,
+        "cancellations": 44
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "July",
+        "arrival_date_day_of_month": 22,
+        "cancellations": 80
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "July",
+        "arrival_date_day_of_month": 23,
+        "cancellations": 67
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "July",
+        "arrival_date_day_of_month": 24,
+        "cancellations": 71
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "July",
+        "arrival_date_day_of_month": 25,
+        "cancellations": 49
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "July",
+        "arrival_date_day_of_month": 26,
+        "cancellations": 80
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "July",
+        "arrival_date_day_of_month": 27,
+        "cancellations": 57
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "July",
+        "arrival_date_day_of_month": 28,
+        "cancellations": 84
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "July",
+        "arrival_date_day_of_month": 29,
+        "cancellations": 100
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "July",
+        "arrival_date_day_of_month": 30,
+        "cancellations": 44
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "July",
+        "arrival_date_day_of_month": 31,
+        "cancellations": 71
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "June",
+        "arrival_date_day_of_month": 1,
+        "cancellations": 101
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "June",
+        "arrival_date_day_of_month": 2,
+        "cancellations": 117
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "June",
+        "arrival_date_day_of_month": 3,
+        "cancellations": 102
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "June",
+        "arrival_date_day_of_month": 4,
+        "cancellations": 50
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "June",
+        "arrival_date_day_of_month": 5,
+        "cancellations": 59
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "June",
+        "arrival_date_day_of_month": 6,
+        "cancellations": 45
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "June",
+        "arrival_date_day_of_month": 7,
+        "cancellations": 63
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "June",
+        "arrival_date_day_of_month": 8,
+        "cancellations": 217
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "June",
+        "arrival_date_day_of_month": 9,
+        "cancellations": 97
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "June",
+        "arrival_date_day_of_month": 10,
+        "cancellations": 42
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "June",
+        "arrival_date_day_of_month": 11,
+        "cancellations": 85
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "June",
+        "arrival_date_day_of_month": 12,
+        "cancellations": 73
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "June",
+        "arrival_date_day_of_month": 13,
+        "cancellations": 36
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "June",
+        "arrival_date_day_of_month": 14,
+        "cancellations": 66
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "June",
+        "arrival_date_day_of_month": 15,
+        "cancellations": 77
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "June",
+        "arrival_date_day_of_month": 16,
+        "cancellations": 91
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "June",
+        "arrival_date_day_of_month": 17,
+        "cancellations": 131
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "June",
+        "arrival_date_day_of_month": 18,
+        "cancellations": 60
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "June",
+        "arrival_date_day_of_month": 19,
+        "cancellations": 75
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "June",
+        "arrival_date_day_of_month": 20,
+        "cancellations": 63
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "June",
+        "arrival_date_day_of_month": 21,
+        "cancellations": 81
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "June",
+        "arrival_date_day_of_month": 22,
+        "cancellations": 58
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "June",
+        "arrival_date_day_of_month": 23,
+        "cancellations": 93
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "June",
+        "arrival_date_day_of_month": 24,
+        "cancellations": 75
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "June",
+        "arrival_date_day_of_month": 25,
+        "cancellations": 50
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "June",
+        "arrival_date_day_of_month": 26,
+        "cancellations": 86
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "June",
+        "arrival_date_day_of_month": 27,
+        "cancellations": 92
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "June",
+        "arrival_date_day_of_month": 28,
+        "cancellations": 109
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "June",
+        "arrival_date_day_of_month": 29,
+        "cancellations": 69
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "June",
+        "arrival_date_day_of_month": 30,
+        "cancellations": 76
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "March",
+        "arrival_date_day_of_month": 1,
+        "cancellations": 40
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "March",
+        "arrival_date_day_of_month": 2,
+        "cancellations": 156
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "March",
+        "arrival_date_day_of_month": 3,
+        "cancellations": 40
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "March",
+        "arrival_date_day_of_month": 4,
+        "cancellations": 28
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "March",
+        "arrival_date_day_of_month": 5,
+        "cancellations": 55
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "March",
+        "arrival_date_day_of_month": 6,
+        "cancellations": 32
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "March",
+        "arrival_date_day_of_month": 7,
+        "cancellations": 31
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "March",
+        "arrival_date_day_of_month": 8,
+        "cancellations": 26
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "March",
+        "arrival_date_day_of_month": 9,
+        "cancellations": 98
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "March",
+        "arrival_date_day_of_month": 10,
+        "cancellations": 44
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "March",
+        "arrival_date_day_of_month": 11,
+        "cancellations": 69
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "March",
+        "arrival_date_day_of_month": 12,
+        "cancellations": 35
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "March",
+        "arrival_date_day_of_month": 13,
+        "cancellations": 82
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "March",
+        "arrival_date_day_of_month": 14,
+        "cancellations": 67
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "March",
+        "arrival_date_day_of_month": 15,
+        "cancellations": 112
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "March",
+        "arrival_date_day_of_month": 16,
+        "cancellations": 58
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "March",
+        "arrival_date_day_of_month": 17,
+        "cancellations": 50
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "March",
+        "arrival_date_day_of_month": 18,
+        "cancellations": 32
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "March",
+        "arrival_date_day_of_month": 19,
+        "cancellations": 23
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "March",
+        "arrival_date_day_of_month": 20,
+        "cancellations": 32
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "March",
+        "arrival_date_day_of_month": 21,
+        "cancellations": 82
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "March",
+        "arrival_date_day_of_month": 22,
+        "cancellations": 28
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "March",
+        "arrival_date_day_of_month": 23,
+        "cancellations": 56
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "March",
+        "arrival_date_day_of_month": 24,
+        "cancellations": 61
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "March",
+        "arrival_date_day_of_month": 25,
+        "cancellations": 50
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "March",
+        "arrival_date_day_of_month": 26,
+        "cancellations": 33
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "March",
+        "arrival_date_day_of_month": 27,
+        "cancellations": 69
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "March",
+        "arrival_date_day_of_month": 28,
+        "cancellations": 21
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "March",
+        "arrival_date_day_of_month": 29,
+        "cancellations": 24
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "March",
+        "arrival_date_day_of_month": 30,
+        "cancellations": 55
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "March",
+        "arrival_date_day_of_month": 31,
+        "cancellations": 83
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "May",
+        "arrival_date_day_of_month": 1,
+        "cancellations": 88
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "May",
+        "arrival_date_day_of_month": 2,
+        "cancellations": 42
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "May",
+        "arrival_date_day_of_month": 3,
+        "cancellations": 121
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "May",
+        "arrival_date_day_of_month": 4,
+        "cancellations": 154
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "May",
+        "arrival_date_day_of_month": 5,
+        "cancellations": 125
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "May",
+        "arrival_date_day_of_month": 6,
+        "cancellations": 114
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "May",
+        "arrival_date_day_of_month": 7,
+        "cancellations": 48
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "May",
+        "arrival_date_day_of_month": 8,
+        "cancellations": 84
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "May",
+        "arrival_date_day_of_month": 9,
+        "cancellations": 77
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "May",
+        "arrival_date_day_of_month": 10,
+        "cancellations": 73
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "May",
+        "arrival_date_day_of_month": 11,
+        "cancellations": 77
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "May",
+        "arrival_date_day_of_month": 12,
+        "cancellations": 55
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "May",
+        "arrival_date_day_of_month": 13,
+        "cancellations": 77
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "May",
+        "arrival_date_day_of_month": 14,
+        "cancellations": 35
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "May",
+        "arrival_date_day_of_month": 15,
+        "cancellations": 198
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "May",
+        "arrival_date_day_of_month": 16,
+        "cancellations": 46
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "May",
+        "arrival_date_day_of_month": 17,
+        "cancellations": 46
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "May",
+        "arrival_date_day_of_month": 18,
+        "cancellations": 62
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "May",
+        "arrival_date_day_of_month": 19,
+        "cancellations": 225
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "May",
+        "arrival_date_day_of_month": 20,
+        "cancellations": 133
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "May",
+        "arrival_date_day_of_month": 21,
+        "cancellations": 53
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "May",
+        "arrival_date_day_of_month": 22,
+        "cancellations": 72
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "May",
+        "arrival_date_day_of_month": 23,
+        "cancellations": 44
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "May",
+        "arrival_date_day_of_month": 24,
+        "cancellations": 110
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "May",
+        "arrival_date_day_of_month": 25,
+        "cancellations": 117
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "May",
+        "arrival_date_day_of_month": 26,
+        "cancellations": 82
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "May",
+        "arrival_date_day_of_month": 27,
+        "cancellations": 59
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "May",
+        "arrival_date_day_of_month": 28,
+        "cancellations": 90
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "May",
+        "arrival_date_day_of_month": 29,
+        "cancellations": 30
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "May",
+        "arrival_date_day_of_month": 30,
+        "cancellations": 148
+    },
+    {
+        "arrival_date_year": 2017,
+        "arrival_date_month": "May",
+        "arrival_date_day_of_month": 31,
+        "cancellations": 77
+    }
+]
